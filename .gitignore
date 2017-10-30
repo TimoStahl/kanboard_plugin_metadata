@@ -1,3 +1,8 @@
+/Metadata-*
+/*.zip
+/files.mk
+/.files.mk
+
 *.bak
 
 # Windows image file caches
